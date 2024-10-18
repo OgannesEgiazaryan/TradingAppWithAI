@@ -1,0 +1,11 @@
+C:\Users\azuli\source\repos\TradingAppWithAI\TradingAppWithAI\bin\Debug\TradingAppWithAI.exe.config
+C:\Users\azuli\source\repos\TradingAppWithAI\TradingAppWithAI\bin\Debug\TradingAppWithAI.exe
+C:\Users\azuli\source\repos\TradingAppWithAI\TradingAppWithAI\bin\Debug\TradingAppWithAI.pdb
+C:\Users\azuli\source\repos\TradingAppWithAI\TradingAppWithAI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\azuli\source\repos\TradingAppWithAI\TradingAppWithAI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\azuli\source\repos\TradingAppWithAI\TradingAppWithAI\obj\Debug\TradingAppWithAI.csproj.AssemblyReference.cache
+C:\Users\azuli\source\repos\TradingAppWithAI\TradingAppWithAI\obj\Debug\TradingAppWithAI.csproj.SuggestedBindingRedirects.cache
+C:\Users\azuli\source\repos\TradingAppWithAI\TradingAppWithAI\obj\Debug\TradingAppWithAI.csproj.CoreCompileInputs.cache
+C:\Users\azuli\source\repos\TradingAppWithAI\TradingAppWithAI\obj\Debug\TradingAppWithAI.csproj.CopyComplete
+C:\Users\azuli\source\repos\TradingAppWithAI\TradingAppWithAI\obj\Debug\TradingAppWithAI.exe
+C:\Users\azuli\source\repos\TradingAppWithAI\TradingAppWithAI\obj\Debug\TradingAppWithAI.pdb
